@@ -1,4 +1,4 @@
-# edge_distributed_DL
+# Edge Distributed DL in our smartphones
 
 ## List of tasks to complete:
   - Choice a simple DL problem
